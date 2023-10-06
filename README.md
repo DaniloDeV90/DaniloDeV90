@@ -1,4 +1,4 @@
-# Olá!, sou Danilo do Carmo Goçalves 👋 
+# Olá!, sou Danilo do Carmo Gonçalves 👋 
 
 
  <a  href="https://www.linkedin.com/in/danilodocarmo/" > <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
